@@ -1,0 +1,5 @@
+C:\Users\KRIShark\source\repos\Bodyguard\output\__resource.lua
+C:\Users\KRIShark\source\repos\Bodyguard\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\KRIShark\source\repos\Bodyguard\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\KRIShark\source\repos\Bodyguard\Client\obj\Debug\Client.net.dll
+C:\Users\KRIShark\source\repos\Bodyguard\output\Client.net.dll
