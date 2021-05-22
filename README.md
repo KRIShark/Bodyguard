@@ -1,0 +1,2 @@
+# Bodyguard
+FivM resource
